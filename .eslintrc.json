@@ -17,6 +17,8 @@
     "linebreak-style": 0,
     "comma-dangle": 0,
     "quotes": 0,
-    "operator-linebreak": 0
+    "operator-linebreak": 0,
+    "max-len": 0,
+    "no-undef": 0
   }
 }
